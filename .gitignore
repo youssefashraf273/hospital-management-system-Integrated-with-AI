@@ -1,0 +1,27 @@
+﻿# Node.js
+node_modules/
+dist/
+build/
+
+# Laravel / PHP
+vendor/
+.env
+.env.*
+composer.lock
+storage/
+bootstrap/cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# General
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.sqlite
+*.sqlite3
+
+# Windows
+Thumbs.db
